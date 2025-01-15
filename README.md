@@ -4,13 +4,12 @@
 # Criar README.md
 
 ## 📒 Descrição
-Criar imagem para capa de um e-book sobre "Princípios da auditoria interna".
-
+Criar imagem para um card sobre educação no trânsito para crianças.
 ## 🤖 Tecnologias Utilizadas
 copilot.microsoft.
 
 ## 🧐 Processo de Criação
-Soliciado por meio do aplicaivo capilot da microsof uma imagem para de um card sobre educação no trânsito para crianças"
+Soliciado por meio do aplicaivo capilot da microsof uma imagem para de um card sobre "educação no trânsito para crianças"
 A primeira imagem gerada veio com excesso de informações.
 Foi solicitado uma nova imagem mais limpa.
 
